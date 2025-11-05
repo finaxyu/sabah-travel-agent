@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+env/
+
+# API Keys - NEVER COMMIT THESE!
+.streamlit/secrets.toml
+*.toml
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
